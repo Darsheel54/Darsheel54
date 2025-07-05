@@ -1,10 +1,14 @@
 👋 Hi, I’m Darsheel — an 18-year-old developer passionate about building creative and interactive web experiences.
+
 💻 I work with:
 - 🌐 HTML, CSS, JavaScript — for crafting dynamic and responsive front-end designs
 - 🐍 Python — for scripting, automation, and backend logic
 - 🛢️ MySQL — for managing and querying relational databases
+- 
 🚀 I love blending code with creativity, whether it's through animations, storytelling, or educational tools. Always learning, always building.
+
 🌱 I’m currently learning Node.js
+
 📫 How to reach me: darsheelsingh252@gmail.com
 <!--
 **Darsheel54/Darsheel54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
