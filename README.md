@@ -5,7 +5,7 @@
 - 🐍 Python — for scripting, automation, and backend logic
 - 🛢️ MySQL — for managing and querying relational databases
 
-🚀 I love blending code with creativity, whether it's through animations, storytelling, or educational tools. Always learning, always building.
+🚀 I love blending code with creativity, whether it's through animations or educational tools. Always learning, always building.
 
 🌱 I’m currently learning Node.js
 
