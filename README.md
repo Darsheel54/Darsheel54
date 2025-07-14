@@ -7,8 +7,6 @@
 
 🚀 I love blending code with creativity, whether it's through animations or educational tools. Always learning, always building.
 
-🌱 I’m currently learning Node.js
-
 📫 How to reach me: darsheelsingh252@gmail.com
 <!--
 **Darsheel54/Darsheel54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
